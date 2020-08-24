@@ -63,6 +63,7 @@ nth-child(even) {
 #footer h4 {
   color: white;
   text-transform: uppercase;
+  text-align: left;
   letter-spacing: 0.1em
 }
 #footer p {
