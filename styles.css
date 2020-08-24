@@ -3,7 +3,6 @@ body {
   color: #555;
   margin: 0;
   font-family: 'montserrat', sans-serif;
-  padding: 40px;
 }
 nth-child(even) {
   background-color: #2f2f2f;
