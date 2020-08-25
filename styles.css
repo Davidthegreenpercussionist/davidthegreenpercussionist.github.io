@@ -6,14 +6,6 @@ body {
   font-family: 'montserrat', sans-serif;
 
 }
-nth-child(even) {
-background-color: lightgrey;
-
-}
-nth-child(odd) {
-  background-color: white;
-}
-}
 
 #header {
   background-color: #1abc9c;
