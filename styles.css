@@ -1,12 +1,17 @@
 @@import url(http://fonts.googleapis.com/css?family=montserrat:400,700);
 body {
-  .nth-child(even) {
-  background-color: #2f2f2f;
-}
+
   color: #555;
   margin: 0;
   font-family: 'montserrat', sans-serif;
 
+}
+nth-child(even) {
+background-color: #2f2f2f;
+
+}
+nth-child(odd) {
+  background-color: white;
 }
 }
 
