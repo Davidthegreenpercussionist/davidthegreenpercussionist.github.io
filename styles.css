@@ -7,7 +7,7 @@ body {
 
 }
 nth-child(even) {
-background-color: #2f2f2f;
+background-color: lightgrey;
 
 }
 nth-child(odd) {
